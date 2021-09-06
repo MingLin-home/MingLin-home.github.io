@@ -1,0 +1,20 @@
+TY  - JOUR
+AU  - Yang, Shizhun
+AU  - Lin, Ming
+AU  - Hou, Chenping
+AU  - Zhang, Changshui
+AU  - Wu, Yi
+PY  - 2012
+DA  - 2012/10/01
+TI  - A general framework for transfer sparse subspace learning
+JO  - Neural Computing and Applications
+SP  - 1801
+EP  - 1817
+VL  - 21
+IS  - 7
+AB  - In this paper, we propose a general framework for transfer learning, referred to as transfer sparse subspace learning (TSSL). This framework is suitable for different assumptions on the divergence measures of the data distributions, such as maximum mean discrepancy, Bregman divergence, and K–L divergence. We introduce an effective sparse regularization to the proposed transfer subspace learning framework, which can reduce time and space cost obviously, and more importantly, which can avoid or at least reduce over-fitting problem. We give different solutions to the problems based on different distribution distance estimation criteria, and convergence analysis is also given. Comprehensive experiments on the text data sets and the face image data sets demonstrate that TSSL-based methods outperform existing transfer learning methods.
+SN  - 1433-3058
+UR  - https://doi.org/10.1007/s00521-012-1084-1
+DO  - 10.1007/s00521-012-1084-1
+ID  - Yang2012
+ER  - 

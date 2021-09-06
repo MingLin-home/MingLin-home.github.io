@@ -15,6 +15,18 @@ Office: Alibaba Group (U.S). 500 108th Ave NE Suit 800, Bellevue, WA 98004. <a h
 ## Selected Papers
 
 * Ming Lin, Pichao Wang, Zhenhong Sun, Hesen Chen, Xiuyu Sun, Qi Qian, Hao Li, Rong Jin. **Zen-NAS: A Zero-Shot NAS for High-Performance Deep Image Recognition**. In Proceedings of the 2021 IEEE/CVF International Conference on Computer Vision. ICCV 2021.  [[paper]](to appear) [[arXiv]](https://arxiv.org/abs/2102.01063)  [[bib]](./mybib/zennas_iccv2021.bib)
+* Ming Lin, Jieping Ye. **A Non-convex One-Pass Framework for Generalized Factorization Machine and Rank-One Matrix Sensing**. In Proceedings of the 30th Annual Conference on Neural Information Processing Systems (NIPS), Pages 1633-1641, 2016.  [[paper]](https://proceedings.neurips.cc/paper/2016/hash/0a113ef6b61820daa5611c870ed8d5ee-Abstract.html) [[arXiv]](https://arxiv.org/abs/1608.05995v5)  [[bib]](./mybib/NIPS-2016-GFM.bib) [[Github]](https://github.com/MingLin-home/gFM)
+* Zhenzhong Lan, Ming Lin, Xuanchong Li, Alexander G. Hauptmann, Bhiksha Raj. **Beyond Gaussian Pyramid: Multi-skip Feature Stacking for Action Recognition**. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Page 204-212, 2015.  [[paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Lan_Beyond_Gaussian_Pyramid_2015_CVPR_paper.html) [[arXiv]](https://arxiv.org/abs/1411.6660)  [[bib]](./mybib/Beyond_Gaussian_Pyramid_CVPR_2015.bib)
+
+## Projects
+
+### Zen-NAS
+
+Zen-NAS is a lightning fast, training-free Neural Architecture Searching (NAS) algorithm for automatically designing deep neural networks with high prediction accuracy and high inference speed on GPU and mobile device. Using 1 GPU searching for 12 hours, ZenNAS is able to design networks of ImageNet top-1 accuracy comparable to EfficientNet-B5 (~83.6%) while inference speed 4.9x times faster on V100, 10x times faster on NVIDIA T4, 1.6x times faster on Google Pixel2.
+
+![](./myimgs/ZenNet_speed.png)
+
+The project Github repository is [here](https://github.com/idstcv/ZenNAS).
 
 ## Publications
 
@@ -28,7 +40,7 @@ Ming Lin, Xiaomin Song, Qi Qian, Hao Li, Liang Sun, Shenghuo Zhu, Rong Jin. **Ro
 
 Ming Lin, Shuang Qiu, Jieping Ye, Xiaomin Song, Qi Qian, Liang Sun, Shenghuo Zhu, Rong Jin. **Which Factorization Machine Modeling is Better: A Theoretical Answer with Optimal Guarantee**. In Proceedings of the Thirty-Third AAAI Conference on Artificial Intelligence (AAAI), 2019. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/4340) [[arXiv]](https://arxiv.org/abs/1901.11149) [[bib]](./mybib/Which-Factorization-Machine-Modeling-Is-Better-A-Theoretical.bib)
 
-Tieliang Gong, Guangtao Wang, Jieping Ye, Zongben Xu, Ming Lin. **Margin Based PU Learning**. In Proceedings of the Thirty-Second AAAI Conference on Artificial Intelligence (AAAI), 2018.  [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/11698)  [[appendix]](./pdf/Margin_Based_PU Learning_AAAI_2018_appendix.pdf) [[bib]](./mybib/Margin-Based-PU-Learning.bib)
+Tieliang Gong, Guangtao Wang, Jieping Ye, Zongben Xu, Ming Lin. **Margin Based PU Learning**. In Proceedings of the Thirty-Second AAAI Conference on Artificial Intelligence (AAAI), 2018.  [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/11698)  [[appendix]](./mypdf/Margin_Based_PU Learning_AAAI_2018_appendix.pdf) [[bib]](./mybib/Margin-Based-PU-Learning.bib)
 
 Xiang Li, Aoxiao Zhong, Ming Lin, Ning Guo, Mu Sun, Arkadiusz Sitek, Jieping Ye, James Thrall, Quanzheng Li. **Self-paced Convolutional Neural Network for Computer Aided Detection in Medical Imaging Analysis**. In Proceedings of the 8th International Workshop on Machine Learning in Medical Imaging (MLMI), 2017.  [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-67389-9_25) [[arXiv]](https://arxiv.org/abs/1707.06145)  [[bib]](./mybib/self-paced-cnn_MLMI2017)
 
@@ -47,7 +59,7 @@ Ming Lin, Zhenzhong Lan, Alexander G. Hauptmann. **Density Corrected Sparse Reco
 
 Shoou-I Yu, Lu Jiang, Zexi Mao, Xiaojun Chang, Xingzhong Du, Chuang Gan, Zhenzhong Lan, Zhongwen Xu, Xuanchong Li, Yang Cai, Anurag Kumar, Yajie Miao, Lara Martin, Nikolas Wolfe, Shicheng Xu, Huan Li, Ming Lin, Zhigang Ma, Yi Yang, Deyu Meng, Shiguang Shan, Pinar Duygulu Sahin, Susanne Burger, Florian Metze, Rita Singh, Bhiksha Raj, Teruko Mitamura, Richard Stern, Alexander Hauptmann. **Informedia@ trecvid 2014 med and mer**. NIST TRECVID Video Retrieval Evaluation Workshop, 2014.  [[paper]](https://www.researchgate.net/publication/283722362_InformediaTRECVID_2014_MED_and_MER) [[bib]](./mybib/Yu_informedia_mer_TRECVID2014.bib)
 
-Ming Lin, Rong Jin, Changshui Zhang. **Efficient Sparse Recovery via Adaptive Non-Convex Regularizers with Oracle Property**.  In Proceedings of the 30th Conference on Uncertainty in Artificial Intelligenre (UAI), Pages 505-514, 2014.  [[paper]](https://www.auai.org/uai2014/acceptedPapers.shtml) [[acm]](https://dl.acm.org/doi/10.5555/3020751.3020804) [[appendix]](./pdf/Ming Lin_UAI2014_appendix.pdf)  [[bib]](./mybib/Ming_sparse_recovery_uai2014.bib)
+Ming Lin, Rong Jin, Changshui Zhang. **Efficient Sparse Recovery via Adaptive Non-Convex Regularizers with Oracle Property**.  In Proceedings of the 30th Conference on Uncertainty in Artificial Intelligenre (UAI), Pages 505-514, 2014.  [[paper]](https://www.auai.org/uai2014/acceptedPapers.shtml) [[acm]](https://dl.acm.org/doi/10.5555/3020751.3020804) [[appendix]](./mypdf/Ming Lin_UAI2014_appendix.pdf)  [[bib]](./mybib/Ming_sparse_recovery_uai2014.bib)
 
 Lijun Zhang, Jinfeng Yi, Ming Lin, Xiaofei He. **Online Kernel Learning with a Near Optimal Sparsity Bound**. In Proceedings of the 30th International Conference on Machine Learning (ICML),  pages 621 – 629, 2013.  [[paper]](http://proceedings.mlr.press/v28/zhang13c.html) [[bib]](./mybib/pmlr-v28-zhang13c.bib)
 
@@ -81,10 +93,10 @@ Shizhun Yang, Ming Lin, Chenping Hou, Changshui Zhang, Yi Wu. **A General Framew
 
 ### Pre-print
 
-Zhenzhong Lan, Xuanchong Li, Ming Lin, Alexander G. Hauptmann. Long-short term motion feature for action classification and retrieval. 2015. [[arXiv]](https://arxiv.org/abs/1502.04132)
+Zhenzhong Lan, Xuanchong Li, Ming Lin, Alexander G. Hauptmann. **Long-short term motion feature for action classification and retrieval**. 2015. [[arXiv]](https://arxiv.org/abs/1502.04132)
 
-Zhenzhong Lan, Shoou-I Yu, Ming Lin, Bhiksha Raj, Alexander G. Hauptmann. Handcrafted local features are convolutional neural networks. 2015. [[arXiv]](http://arxiv.org/abs/1511.05045) 
+Zhenzhong Lan, Shoou-I Yu, Ming Lin, Bhiksha Raj, Alexander G. Hauptmann. **Handcrafted local features are convolutional neural networks**. 2015. [[arXiv]](http://arxiv.org/abs/1511.05045) 
 
-Shuang Qiu, Tingjin Luo, Jieping Ye, Ming Lin. Nonconvex One-bit Single-label Multi-label Learning. arXiv:1703.06104 [stat.ML]. 2017. [[arXiv]](https://arxiv.org/abs/1703.06104) 
+Shuang Qiu, Tingjin Luo, Jieping Ye, Ming Lin. **Nonconvex One-bit Single-label Multi-label Learning**. arXiv:1703.06104 [stat.ML]. 2017. [[arXiv]](https://arxiv.org/abs/1703.06104) 
 
-Ming Lin, Shuang Qiu, Bin Hong, Jieping Ye. The Second Order Linear Model. arXiv:1703.00598 [stat.ML]. 2017. [[arXiv]](https://arxiv.org/abs/1703.00598) [[Github]](https://github.com/MingLin-home/libSLM)
+Ming Lin, Shuang Qiu, Bin Hong, Jieping Ye. **The Second Order Linear Model**. arXiv:1703.00598 [stat.ML]. 2017. [[arXiv]](https://arxiv.org/abs/1703.00598) [[Github]](https://github.com/MingLin-home/libSLM)
