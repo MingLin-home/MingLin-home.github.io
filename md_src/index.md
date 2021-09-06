@@ -105,6 +105,12 @@ Shizhun Yang, Ming Lin, Chenping Hou, Changshui Zhang, Yi Wu. **A General Framew
 
 ### Pre-print
 
+Pichao Wang, Xue Wang, Fan Wang, Ming Lin, Shuning Chang, Wen Xie, Hao Li, Rong Jin. **KVT: k-NN Attention for Boosting Vision Transformers**. 2021. [[arXiv]](https://arxiv.org/abs/2106.00515)
+
+Yonathan Aflalo, Asaf Noy, Ming Lin, Itamar Friedman, Lihi Zelnik. **Knapsack Pruning with Inner Distillation**. 2020. [[arXiv](https://arxiv.org/abs/2002.08258)
+
+Yi Xu, Asaf Noy, Ming Lin, Qi Qian, Hao Li, Rong Jin. **WeMix: How to Better Utilize Data Augmentation**. 2020. [[arXiv]](https://arxiv.org/abs/2010.01267)
+
 Zhenzhong Lan, Xuanchong Li, Ming Lin, Alexander G. Hauptmann. **Long-short term motion feature for action classification and retrieval**. 2015. [[arXiv]](https://arxiv.org/abs/1502.04132)
 
 Zhenzhong Lan, Shoou-I Yu, Ming Lin, Bhiksha Raj, Alexander G. Hauptmann. **Handcrafted local features are convolutional neural networks**. 2015. [[arXiv]](http://arxiv.org/abs/1511.05045) 
