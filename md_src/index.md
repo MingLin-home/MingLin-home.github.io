@@ -21,7 +21,11 @@ Office: Alibaba Group (U.S). 500 108th Ave NE Suit 800, Bellevue, WA 98004. <a h
 ## Selected Papers
 
 * Ming Lin, Pichao Wang, Zhenhong Sun, Hesen Chen, Xiuyu Sun, Qi Qian, Hao Li, Rong Jin. **Zen-NAS: A Zero-Shot NAS for High-Performance Deep Image Recognition**. In Proceedings of the 2021 IEEE/CVF International Conference on Computer Vision. ICCV 2021.  [[paper]](to appear) [[arXiv]](https://arxiv.org/abs/2102.01063)  [[bib]](./mybib/zennas_iccv2021.bib)
+
+
 * Ming Lin, Jieping Ye. **A Non-convex One-Pass Framework for Generalized Factorization Machine and Rank-One Matrix Sensing**. In Proceedings of the 30th Annual Conference on Neural Information Processing Systems (NIPS), Pages 1633-1641, 2016.  [[paper]](https://proceedings.neurips.cc/paper/2016/hash/0a113ef6b61820daa5611c870ed8d5ee-Abstract.html) [[arXiv]](https://arxiv.org/abs/1608.05995v5)  [[bib]](./mybib/NIPS-2016-GFM.bib) [[Github]](https://github.com/MingLin-home/gFM)
+
+
 * Zhenzhong Lan, Ming Lin, Xuanchong Li, Alexander G. Hauptmann, Bhiksha Raj. **Beyond Gaussian Pyramid: Multi-skip Feature Stacking for Action Recognition**. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Page 204-212, 2015.  [[paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Lan_Beyond_Gaussian_Pyramid_2015_CVPR_paper.html) [[arXiv]](https://arxiv.org/abs/1411.6660)  [[bib]](./mybib/Beyond_Gaussian_Pyramid_CVPR_2015.bib)
 
 ## Projects
