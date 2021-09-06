@@ -38,17 +38,25 @@ Zen-NAS is a lightning fast, training-free Neural Architecture Searching (NAS) a
 
 Zen-NAS Github repository is [here](https://github.com/idstcv/ZenNAS).
 
+### GPU-Efficient Networks
+
+This project aims to develop GPU-Efficient networks via automatic Neural Architecture Search techniques. This project is obsoleted as our ICCV 2021 work [Zen-NAS](https://arxiv.org/abs/2102.01063) is a more powerful tool for designing GPU-efficient networks.
+
+The Github repository (**obsoleted**) is [here](https://github.com/idstcv/GPU-Efficient-Networks).
+
 ## Publications
 
 My published papers and pre-prints. [[Jump to my Google Scholar]](https://scholar.google.com/citations?user=08qZeTUAAAAJ#)
 
 ### Conference
 
-Ming Lin, Pichao Wang, Zhenhong Sun, Hesen Chen, Xiuyu Sun, Qi Qian, Hao Li, Rong Jin. **Zen-NAS: A Zero-Shot NAS for High-Performance Deep Image Recognition**. In Proceedings of the 2021 IEEE/CVF International Conference on Computer Vision. ICCV 2021.  [[paper]](to appear iccv2021) [[arXiv]](https://arxiv.org/abs/2102.01063)  [[bib]](./mybib/zennas_iccv2021.bib)
+Ming Lin, Pichao Wang, Zhenhong Sun, Hesen Chen, Xiuyu Sun, Qi Qian, Hao Li, Rong Jin. **Zen-NAS: A Zero-Shot NAS for High-Performance Deep Image Recognition**. In Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 2021.  [[paper]](to appear iccv2021) [[arXiv]](https://arxiv.org/abs/2102.01063)  [[bib]](./mybib/zennas_iccv2021.bib)
 
 Yichen Qian, Zhiyu Tan, Xiuyu Sun, Ming Lin, Dongyang Li, Zhenhong Sun, Li Hao, Rong Jin. Learning Accurate Entropy Model with Global Reference for Image Compression. In Proceedings of the International Conference on Learning Representations, 2021. [[paper]](https://openreview.net/forum?id=cTbIjyrUVwJ) [[bib]](./mybib/yichen_entropy_compression_iclr2021.bib)
 
 Ming Lin, Xiaomin Song, Qi Qian, Hao Li, Liang Sun, Shenghuo Zhu, Rong Jin. **Robust Gaussian Process Regression for Real-Time High Precision GPS Signal Enhancement**. In Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (SIGKDD), 2019. [[paper]](https://dl.acm.org/doi/abs/10.1145/3292500.3330695) [[arXiv]](https://arxiv.org/abs/1906.01095) [[bib]](./mybib/ming_robut_gp_gps_kdd2019.bib)
+
+Hesen Chen, Ming Lin, Xiuyu Sun, Qian Qi, Hao Li, Rong Jin. **MuffNet: Multi-Layer Feature Federation for Mobile Deep Learning**. In Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV workshop), 2019. [[paper]](https://openaccess.thecvf.com/content_ICCVW_2019/html/CEFRL/Chen_MuffNet_Multi-Layer_Feature_Federation_for_Mobile_Deep_Learning_ICCVW_2019_paper.html) [[bib]](./mybib/muffnet_iccv2019.bib)
 
 Ming Lin, Shuang Qiu, Jieping Ye, Xiaomin Song, Qi Qian, Liang Sun, Shenghuo Zhu, Rong Jin. **Which Factorization Machine Modeling is Better: A Theoretical Answer with Optimal Guarantee**. In Proceedings of the Thirty-Third AAAI Conference on Artificial Intelligence (AAAI), 2019. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/4340) [[arXiv]](https://arxiv.org/abs/1901.11149) [[bib]](./mybib/Which-Factorization-Machine-Modeling-Is-Better-A-Theoretical.bib)
 
@@ -105,11 +113,15 @@ Shizhun Yang, Ming Lin, Chenping Hou, Changshui Zhang, Yi Wu. **A General Framew
 
 ### Pre-print
 
+
 Pichao Wang, Xue Wang, Fan Wang, Ming Lin, Shuning Chang, Wen Xie, Hao Li, Rong Jin. **KVT: k-NN Attention for Boosting Vision Transformers**. 2021. [[arXiv]](https://arxiv.org/abs/2106.00515)
 
 Yonathan Aflalo, Asaf Noy, Ming Lin, Itamar Friedman, Lihi Zelnik. **Knapsack Pruning with Inner Distillation**. 2020. [[arXiv](https://arxiv.org/abs/2002.08258)
 
 Yi Xu, Asaf Noy, Ming Lin, Qi Qian, Hao Li, Rong Jin. **WeMix: How to Better Utilize Data Augmentation**. 2020. [[arXiv]](https://arxiv.org/abs/2010.01267)
+
+Ming Lin, Hesen Chen, Xiuyu Sun, Qi Qian, Hao Li, Rong Jin. Neural Architecture Design for GPU-Efficient Networks. 2020. [[arXiv]](https://arxiv.org/abs/2006.14090) [[Github]](https://github.com/idstcv/GPU-Efficient-Networks)
+
 
 Zhenzhong Lan, Xuanchong Li, Ming Lin, Alexander G. Hauptmann. **Long-short term motion feature for action classification and retrieval**. 2015. [[arXiv]](https://arxiv.org/abs/1502.04132)
 
