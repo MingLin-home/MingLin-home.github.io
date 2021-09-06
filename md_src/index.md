@@ -40,7 +40,9 @@ My published papers and pre-prints. [[Jump to my Google Scholar]](https://schola
 
 ### Conference
 
-Ming Lin, Pichao Wang, Zhenhong Sun, Hesen Chen, Xiuyu Sun, Qi Qian, Hao Li, Rong Jin. **Zen-NAS: A Zero-Shot NAS for High-Performance Deep Image Recognition**. In Proceedings of the 2021 IEEE/CVF International Conference on Computer Vision. ICCV 2021.  [[paper]]() [[arXiv]](https://arxiv.org/abs/2102.01063)  [[bib]](./mybib/zennas_iccv2021.bib)
+Ming Lin, Pichao Wang, Zhenhong Sun, Hesen Chen, Xiuyu Sun, Qi Qian, Hao Li, Rong Jin. **Zen-NAS: A Zero-Shot NAS for High-Performance Deep Image Recognition**. In Proceedings of the 2021 IEEE/CVF International Conference on Computer Vision. ICCV 2021.  [[paper]](to appear iccv2021) [[arXiv]](https://arxiv.org/abs/2102.01063)  [[bib]](./mybib/zennas_iccv2021.bib)
+
+Yichen Qian, Zhiyu Tan, Xiuyu Sun, Ming Lin, Dongyang Li, Zhenhong Sun, Li Hao, Rong Jin. Learning Accurate Entropy Model with Global Reference for Image Compression. In Proceedings of the International Conference on Learning Representations, 2021. [[paper]](https://openreview.net/forum?id=cTbIjyrUVwJ) [[bib]](./mybib/yichen_entropy_compression_iclr2021.bib)
 
 Ming Lin, Xiaomin Song, Qi Qian, Hao Li, Liang Sun, Shenghuo Zhu, Rong Jin. **Robust Gaussian Process Regression for Real-Time High Precision GPS Signal Enhancement**. In Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (SIGKDD), 2019. [[paper]](https://dl.acm.org/doi/abs/10.1145/3292500.3330695) [[arXiv]](https://arxiv.org/abs/1906.01095) [[bib]](./mybib/ming_robut_gp_gps_kdd2019.bib)
 
