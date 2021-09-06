@@ -13,10 +13,14 @@ Email: [ming.l@alibaba-inc.com](mailto:ming.l@alibaba-inc.com), [linming04@gmail
 Office: Alibaba Group (U.S). 500 108th Ave NE Suit 800, Bellevue, WA 98004. <a href="https://www.google.com/maps/search/Alibaba,+108th+Avenue+Northeast+%23800,+Bellevue,+WA/@47.6156136,-122.2007005,16z/data=!3m1!4b1"> (Google Map)</a> 
 
 <br>
+<br>
 
 ## News
 
 **2021-09-01**  Our [Zen-NAS](https://arxiv.org/abs/2102.01063) is accepted by ICCV 2021.
+
+<br>
+<br>
 
 ## Selected Papers
 
@@ -27,6 +31,9 @@ Office: Alibaba Group (U.S). 500 108th Ave NE Suit 800, Bellevue, WA 98004. <a h
 
 
 * Zhenzhong Lan, Ming Lin, Xuanchong Li, Alexander G. Hauptmann, Bhiksha Raj. **Beyond Gaussian Pyramid: Multi-skip Feature Stacking for Action Recognition**. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Page 204-212, 2015.  [[paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Lan_Beyond_Gaussian_Pyramid_2015_CVPR_paper.html) [[arXiv]](https://arxiv.org/abs/1411.6660)  [[bib]](./mybib/Beyond_Gaussian_Pyramid_CVPR_2015.bib)
+
+<br>
+<br>
 
 ## Projects
 
@@ -43,6 +50,9 @@ Zen-NAS Github repository is [here](https://github.com/idstcv/ZenNAS).
 This project aims to develop GPU-Efficient networks via automatic Neural Architecture Search techniques. This project is obsoleted as our ICCV 2021 work [Zen-NAS](https://arxiv.org/abs/2102.01063) is a more powerful tool for designing GPU-efficient networks.
 
 The Github repository (**obsoleted**) is [here](https://github.com/idstcv/GPU-Efficient-Networks).
+
+<br>
+<br>
 
 ## Publications
 
