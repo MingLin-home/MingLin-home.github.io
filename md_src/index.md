@@ -6,6 +6,8 @@
 
 I am currently an algorithm engineer at Alibaba Group (U.S.). My current research interest mainly focuses on Neural Architecture Search (NAS) and deep learning theories. Before I joined Alibaba Group (U.S.), I was a Reseach Investigator in the Medical School of Michigan University advised by Dr. Jieping Ye until April 2019. I worked in the School of Computer Science at Carnegie Mellon University from July 2014 to Sep 2015 advised by Dr. Alexander G. Hauptmann. I received my Ph.D. degree in computer science from Tsinghua University in 2014 under the supervision of Prof. Chuangshui Zhang. During my Ph.D. study, I had been a visiting scholar in Michigan State University advised by Prof. Rong Jin from Nov 2012 to Dec 2013 and in CMU from Dec 2013 to July 2014. 
 
+<br>
+
 Email: [ming.l@alibaba-inc.com](mailto:ming.l@alibaba-inc.com), [linming04@gmail.com](mailto:linming04@gmail.com)
 
 Office: Alibaba Group (U.S). 500 108th Ave NE Suit 800, Bellevue, WA 98004. <a href="https://www.google.com/maps/search/Alibaba,+108th+Avenue+Northeast+%23800,+Bellevue,+WA/@47.6156136,-122.2007005,16z/data=!3m1!4b1"> (Google Map)</a> 
