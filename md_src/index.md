@@ -40,13 +40,13 @@ Zen-NAS is a lightning fast, training-free Neural Architecture Searching (NAS) a
 
 ![](./myimgs/ZenNet_speed.png)
 
-Zen-NAS Github repository is [here](https://github.com/idstcv/ZenNAS).
+Github repository is [here](https://github.com/idstcv/ZenNAS).
 
 ### GPU-Efficient Networks
 
 This project aims to develop GPU-Efficient networks via automatic Neural Architecture Search techniques. This project is obsoleted as our ICCV 2021 work [Zen-NAS](https://arxiv.org/abs/2102.01063) is a more powerful tool for designing GPU-efficient networks.
 
-The Github repository (**obsoleted**) is [here](https://github.com/idstcv/GPU-Efficient-Networks).
+Github repository (**obsoleted**) is [here](https://github.com/idstcv/GPU-Efficient-Networks).
 
 <br>
 <br>
