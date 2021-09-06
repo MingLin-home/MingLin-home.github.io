@@ -1,4 +1,4 @@
-# Welcome to Ming's Homepage
+# Welcome to Ming Lin's Homepage
 
 ![](./ming_photo.jpg)
 
@@ -8,7 +8,7 @@ Email: [ming.l@alibaba-inc.com](mailto:ming.l@alibaba-inc.com), [linming04@gmail
 
 Office: Alibaba Group (U.S). 500 108th Ave NE Suit 800, Bellevue, WA 98004. <a href="https://www.google.com/maps/search/Alibaba,+108th+Avenue+Northeast+%23800,+Bellevue,+WA/@47.6156136,-122.2007005,16z/data=!3m1!4b1"> (Google Map)</a> 
 
-## Updates
+## News
 
 **2021-09-01**  Our [Zen-NAS](https://arxiv.org/abs/2102.01063) is accepted by ICCV 2021.
 
@@ -40,7 +40,7 @@ Ming Lin, Xiaomin Song, Qi Qian, Hao Li, Liang Sun, Shenghuo Zhu, Rong Jin. **Ro
 
 Ming Lin, Shuang Qiu, Jieping Ye, Xiaomin Song, Qi Qian, Liang Sun, Shenghuo Zhu, Rong Jin. **Which Factorization Machine Modeling is Better: A Theoretical Answer with Optimal Guarantee**. In Proceedings of the Thirty-Third AAAI Conference on Artificial Intelligence (AAAI), 2019. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/4340) [[arXiv]](https://arxiv.org/abs/1901.11149) [[bib]](./mybib/Which-Factorization-Machine-Modeling-Is-Better-A-Theoretical.bib)
 
-Tieliang Gong, Guangtao Wang, Jieping Ye, Zongben Xu, Ming Lin. **Margin Based PU Learning**. In Proceedings of the Thirty-Second AAAI Conference on Artificial Intelligence (AAAI), 2018.  [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/11698)  [[appendix]](./mypdf/Margin_Based_PU Learning_AAAI_2018_appendix.pdf) [[bib]](./mybib/Margin-Based-PU-Learning.bib)
+Tieliang Gong, Guangtao Wang, Jieping Ye, Zongben Xu, Ming Lin. **Margin Based PU Learning**. In Proceedings of the Thirty-Second AAAI Conference on Artificial Intelligence (AAAI), 2018.  [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/11698) [[appendix]](./mypdf/Margin_Based_PU_Learning_AAAI_2018_appendix.pdf) [[bib]](./mybib/Margin-Based-PU-Learning.bib)
 
 Xiang Li, Aoxiao Zhong, Ming Lin, Ning Guo, Mu Sun, Arkadiusz Sitek, Jieping Ye, James Thrall, Quanzheng Li. **Self-paced Convolutional Neural Network for Computer Aided Detection in Medical Imaging Analysis**. In Proceedings of the 8th International Workshop on Machine Learning in Medical Imaging (MLMI), 2017.  [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-67389-9_25) [[arXiv]](https://arxiv.org/abs/1707.06145)  [[bib]](./mybib/self-paced-cnn_MLMI2017)
 
