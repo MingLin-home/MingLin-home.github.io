@@ -120,7 +120,7 @@ Yonathan Aflalo, Asaf Noy, Ming Lin, Itamar Friedman, Lihi Zelnik. **Knapsack Pr
 
 Yi Xu, Asaf Noy, Ming Lin, Qi Qian, Hao Li, Rong Jin. **WeMix: How to Better Utilize Data Augmentation**. 2020. [[arXiv]](https://arxiv.org/abs/2010.01267)
 
-Ming Lin, Hesen Chen, Xiuyu Sun, Qi Qian, Hao Li, Rong Jin. Neural Architecture Design for GPU-Efficient Networks. 2020. [[arXiv]](https://arxiv.org/abs/2006.14090) [[Github]](https://github.com/idstcv/GPU-Efficient-Networks)
+Ming Lin, Hesen Chen, Xiuyu Sun, Qi Qian, Hao Li, Rong Jin. **Neural Architecture Design for GPU-Efficient Networks**. 2020. [[arXiv]](https://arxiv.org/abs/2006.14090) [[Github]](https://github.com/idstcv/GPU-Efficient-Networks)
 
 
 Zhenzhong Lan, Xuanchong Li, Ming Lin, Alexander G. Hauptmann. **Long-short term motion feature for action classification and retrieval**. 2015. [[arXiv]](https://arxiv.org/abs/1502.04132)
