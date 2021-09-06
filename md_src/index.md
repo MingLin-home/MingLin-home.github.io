@@ -116,7 +116,7 @@ Shizhun Yang, Ming Lin, Chenping Hou, Changshui Zhang, Yi Wu. **A General Framew
 
 Pichao Wang, Xue Wang, Fan Wang, Ming Lin, Shuning Chang, Wen Xie, Hao Li, Rong Jin. **KVT: k-NN Attention for Boosting Vision Transformers**. 2021. [[arXiv]](https://arxiv.org/abs/2106.00515)
 
-Yonathan Aflalo, Asaf Noy, Ming Lin, Itamar Friedman, Lihi Zelnik. **Knapsack Pruning with Inner Distillation**. 2020. [[arXiv](https://arxiv.org/abs/2002.08258)
+Yonathan Aflalo, Asaf Noy, Ming Lin, Itamar Friedman, Lihi Zelnik. **Knapsack Pruning with Inner Distillation**. 2020. [[arXiv]](https://arxiv.org/abs/2002.08258)
 
 Yi Xu, Asaf Noy, Ming Lin, Qi Qian, Hao Li, Rong Jin. **WeMix: How to Better Utilize Data Augmentation**. 2020. [[arXiv]](https://arxiv.org/abs/2010.01267)
 
@@ -127,6 +127,6 @@ Zhenzhong Lan, Xuanchong Li, Ming Lin, Alexander G. Hauptmann. **Long-short term
 
 Zhenzhong Lan, Shoou-I Yu, Ming Lin, Bhiksha Raj, Alexander G. Hauptmann. **Handcrafted local features are convolutional neural networks**. 2015. [[arXiv]](http://arxiv.org/abs/1511.05045) 
 
-Shuang Qiu, Tingjin Luo, Jieping Ye, Ming Lin. **Nonconvex One-bit Single-label Multi-label Learning**. arXiv:1703.06104 [stat.ML]. 2017. [[arXiv]](https://arxiv.org/abs/1703.06104) 
+Shuang Qiu, Tingjin Luo, Jieping Ye, Ming Lin. **Nonconvex One-bit Single-label Multi-label Learning**. 2017. [[arXiv]](https://arxiv.org/abs/1703.06104) 
 
-Ming Lin, Shuang Qiu, Bin Hong, Jieping Ye. **The Second Order Linear Model**. arXiv:1703.00598 [stat.ML]. 2017. [[arXiv]](https://arxiv.org/abs/1703.00598) [[Github]](https://github.com/MingLin-home/libSLM)
+Ming Lin, Shuang Qiu, Bin Hong, Jieping Ye. **The Second Order Linear Model**. 2017. [[arXiv]](https://arxiv.org/abs/1703.00598) [[Github]](https://github.com/MingLin-home/libSLM)
