@@ -16,7 +16,9 @@ Office: Alibaba Group (U.S). 500 108th Ave NE Suit 800, Bellevue, WA 98004. <a h
 
 ## News
 
-**2021-09-01**  Our [Zen-NAS](https://arxiv.org/abs/2102.01063) is accepted by ICCV 2021.
+**2021-10-01**  &nbsp; <span style="color:red">We are looking for research interns </span>in Neural Architecture Search and Deep Learning Theories. Application link is [here](https://campus.alibaba.com/projectDetail.htm?spm=a1z3e1.11796652.0.0.546560d34PKvAN&id=885&batchId=82&batchName=%E7%A0%94%E7%A9%B6%E5%9E%8B%E5%AE%9E%E4%B9%A0%E7%94%9F) or directly send an email to me via [here](mailto:ming.l@alibaba-inc.com).
+
+**2021-09-01**  &nbsp; Our [Zen-NAS](https://arxiv.org/abs/2102.01063) is accepted by ICCV 2021.
 
 <br>
 
@@ -59,7 +61,7 @@ My published papers and pre-prints. [[Jump to my Google Scholar]](https://schola
 
 Ming Lin, Pichao Wang, Zhenhong Sun, Hesen Chen, Xiuyu Sun, Qi Qian, Hao Li, Rong Jin. **Zen-NAS: A Zero-Shot NAS for High-Performance Deep Image Recognition**. In Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 2021.  [[paper]](to appear iccv2021) [[arXiv]](https://arxiv.org/abs/2102.01063)  [[bib]](./mybib/zennas_iccv2021.bib)
 
-Yichen Qian, Zhiyu Tan, Xiuyu Sun, Ming Lin, Dongyang Li, Zhenhong Sun, Li Hao, Rong Jin. Learning Accurate Entropy Model with Global Reference for Image Compression. In Proceedings of the International Conference on Learning Representations (ICLR), 2021. [[paper]](https://openreview.net/forum?id=cTbIjyrUVwJ) [[bib]](./mybib/yichen_entropy_compression_iclr2021.bib)
+Yichen Qian, Zhiyu Tan, Xiuyu Sun, Ming Lin, Dongyang Li, Zhenhong Sun, Li Hao, Rong Jin. **Learning Accurate Entropy Model with Global Reference for Image Compression**. In Proceedings of the International Conference on Learning Representations (ICLR), 2021. [[paper]](https://openreview.net/forum?id=cTbIjyrUVwJ) [[bib]](./mybib/yichen_entropy_compression_iclr2021.bib)
 
 Ming Lin, Xiaomin Song, Qi Qian, Hao Li, Liang Sun, Shenghuo Zhu, Rong Jin. **Robust Gaussian Process Regression for Real-Time High Precision GPS Signal Enhancement**. In Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (SIGKDD), 2019. [[paper]](https://dl.acm.org/doi/abs/10.1145/3292500.3330695) [[arXiv]](https://arxiv.org/abs/1906.01095) [[bib]](./mybib/ming_robut_gp_gps_kdd2019.bib)
 
