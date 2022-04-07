@@ -4,7 +4,7 @@
 
 <img style="float: left; padding-right:15px" src="./ming_photo.jpg" >
 
-I am currently an algorithm engineer at Alibaba Group (U.S.). My current research interest mainly focuses on Neural Architecture Search (NAS) and deep learning theories. Before I joined Alibaba Group (U.S.), I was a Reseach Investigator in the Medical School of Michigan University advised by Dr. Jieping Ye until April 2019. I worked in the School of Computer Science at Carnegie Mellon University from July 2014 to Sep 2015 advised by Dr. Alexander G. Hauptmann. I received my Ph.D. degree in computer science from Tsinghua University in 2014 under the supervision of Prof. Chuangshui Zhang. During my Ph.D. study, I had been a visiting scholar in Michigan State University advised by Prof. Rong Jin from Nov 2012 to Dec 2013 and in CMU from Dec 2013 to July 2014. 
+I am a Staff Algorithm Engineer at [DAMO Academy of Alibaba Group (U.S.)](https://damo.alibaba.com/). My research interests include Efficient Deep Learning and Statistical Machine Learning, with their applications in Neural Architecture Search, Computer Vision, Mobile AI and any other real-world problems. Before I joined Alibaba Group (U.S.), I was a Reseach Investigator in the Medical School of Michigan University until April 2019. I worked as a postdoctoral researcher in the School of Computer Science at Carnegie Mellon University from July 2014 to Sep 2015. I received my Ph.D. degree in computer science from Tsinghua University in 2014. During my Ph.D. study, I had been a visiting scholar in Michigan State University and in CMU from Dec 2013 to July 2014.
 
 <br>
 
@@ -35,6 +35,12 @@ Office: Alibaba Group (U.S). 500 108th Ave NE Suit 800, Bellevue, WA 98004. <a h
 <br>
 
 ## Projects
+
+### Light-NAS
+
+Light-NAS is an integrated, distributed, full-stack framework for Zero-Shot Neural Architecture Search based on Pytorch and OpenMPI. It is able to design efficient deep neural networks for imagenet classification and object detectin within 1~2 hours on 8 GPUs. It also includes a hardware latency prediction module in order to optimize the network throughput for GPU or mobile phone.
+
+Github repository is [here](https://github.com/alibaba/lightweight-neural-architecture-search).
 
 ### Zen-NAS
 
