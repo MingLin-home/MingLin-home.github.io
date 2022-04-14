@@ -65,6 +65,12 @@ My published papers and pre-prints. [[Jump to my Google Scholar]](https://schola
 
 ### Conference
 
+Yichen Qian, Xiuyu Sun, Ming Lin, Zhiyu Tan, Rong Jin. **Entroformer: A Transformer-based Entropy Model for Learned Image Compression**. In Proceedings of the International Conference on Learning Representations (ICLR), 2022. [[paper]](https://openreview.net/forum?id=VrjOFfcnSV8) [[GitHub]](https://github.com/damo-cv/entroformer) [[bib]](./mybib/yichen_entropy_compression_iclr2021.bib)
+
+Yaohua Wang, Yaobin Zhang, Fangyi Zhang, Senzhang Wang, Ming Lin, YuQi Zhang, Xiuyu Sun. **Ada-NETS: Face Clustering via Adaptive Neighbour Discovery in the Structure Space**. In Proceedings of the International Conference on Learning Representations (ICLR), 2022. [[paper]](https://openreview.net/forum?id=QJWVP4CTmW4) [[GitHub]](https://github.com/damo-cv/Ada-NETS) [[bib]](./mybib/wang2022adanets.bib)
+
+Yiqi Jiang, Zhiyu Tan, Junyan Wang, Xiuyu Sun, Ming Lin, Hao Li. **GiraffeDet: A Heavy-Neck Paradigm for Object Detection**. In Proceedings of the International Conference on Learning Representations (ICLR), 2022. [[paper]](https://openreview.net/forum?id=cBu4ElJfneV) [[GitHub]](https://github.com/jyqi/GiraffeDet) [[bib]](./mybib/jiang2022giraffedet.bib)
+
 Ming Lin, Pichao Wang, Zhenhong Sun, Hesen Chen, Xiuyu Sun, Qi Qian, Hao Li, Rong Jin. **Zen-NAS: A Zero-Shot NAS for High-Performance Deep Image Recognition**. In Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 2021.  [[paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Lin_Zen-NAS_A_Zero-Shot_NAS_for_High-Performance_Image_Recognition_ICCV_2021_paper.html) [[arXiv]](https://arxiv.org/abs/2102.01063)  [[bib]](./mybib/zennas_iccv2021.bib)
 
 Yichen Qian, Zhiyu Tan, Xiuyu Sun, Ming Lin, Dongyang Li, Zhenhong Sun, Li Hao, Rong Jin. **Learning Accurate Entropy Model with Global Reference for Image Compression**. In Proceedings of the International Conference on Learning Representations (ICLR), 2021. [[paper]](https://openreview.net/forum?id=cTbIjyrUVwJ) [[bib]](./mybib/yichen_entropy_compression_iclr2021.bib)
