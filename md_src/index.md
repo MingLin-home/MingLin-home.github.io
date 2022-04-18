@@ -14,14 +14,6 @@ Office: Alibaba Group (U.S). 500 108th Ave NE Suit 800, Bellevue, WA 98004. <a h
 
 <br>
 
-## News
-
-**2021-10-01**  &nbsp; <span style="color:red">We are looking for research interns </span>in Neural Architecture Search and Deep Learning Theories. Application link is [here](https://campus.alibaba.com/projectDetail.htm?spm=a1z3e1.11796652.0.0.546560d34PKvAN&id=885&batchId=82&batchName=%E7%A0%94%E7%A9%B6%E5%9E%8B%E5%AE%9E%E4%B9%A0%E7%94%9F) or directly send an email to me via [here](mailto:ming.l@alibaba-inc.com).
-
-**2021-09-01**  &nbsp; Our [Zen-NAS](https://arxiv.org/abs/2102.01063) is accepted by ICCV 2021.
-
-<br>
-
 ## Selected Papers
 
 * Ming Lin, Pichao Wang, Zhenhong Sun, Hesen Chen, Xiuyu Sun, Qi Qian, Hao Li, Rong Jin. **Zen-NAS: A Zero-Shot NAS for High-Performance Deep Image Recognition**. In Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 2021.  [[paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Lin_Zen-NAS_A_Zero-Shot_NAS_for_High-Performance_Image_Recognition_ICCV_2021_paper.html) [[arXiv]](https://arxiv.org/abs/2102.01063)  [[bib]](./mybib/zennas_iccv2021.bib)
