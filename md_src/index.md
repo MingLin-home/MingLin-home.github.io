@@ -16,6 +16,8 @@ Office: Alibaba Group (U.S). 500 108th Ave NE Suit 800, Bellevue, WA 98004. <a h
 
 ## Selected Papers
 
+* Zhenhong Sun, Ming Lin, Xiuyu Sun, Zhiyu Tan, Hao Li and Rong Jin. **MAE-DET: Revisiting Maximum Entropy Principle in Zero-Shot NAS for Efficient Object Detection**. In Proceedings of the International Conference on Machine Learning (ICML), 2022. [[paper]](https://icml.cc/Conferences/2022/Schedule?showEvent=16416) [[arxiv]](https://arxiv.org/abs/2111.13336) [[GitHub]](https://github.com/alibaba/lightweight-neural-architecture-search) [[bib]](./mybib/mae_det_icml2022.bib)
+
 * Ming Lin, Pichao Wang, Zhenhong Sun, Hesen Chen, Xiuyu Sun, Qi Qian, Hao Li, Rong Jin. **Zen-NAS: A Zero-Shot NAS for High-Performance Deep Image Recognition**. In Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 2021.  [[paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Lin_Zen-NAS_A_Zero-Shot_NAS_for_High-Performance_Image_Recognition_ICCV_2021_paper.html) [[arXiv]](https://arxiv.org/abs/2102.01063)  [[bib]](./mybib/zennas_iccv2021.bib)
 
 * Yiqi Jiang, Zhiyu Tan, Junyan Wang, Xiuyu Sun, Ming Lin, Hao Li. **GiraffeDet: A Heavy-Neck Paradigm for Object Detection**. In Proceedings of the International Conference on Learning Representations (ICLR), 2022. [[paper]](https://openreview.net/forum?id=cBu4ElJfneV) [[GitHub]](https://github.com/jyqi/GiraffeDet) [[bib]](./mybib/jiang2022giraffedet.bib)
@@ -52,11 +54,11 @@ Github repository (**obsoleted**) is [here](https://github.com/idstcv/GPU-Effici
 <br>
 <br>
 
-## Publications
-
-My published papers and pre-prints. [[Jump to my Google Scholar]](https://scholar.google.com/citations?user=08qZeTUAAAAJ#)
+## Publications [[Jump to my Google Scholar]](https://scholar.google.com/citations?user=08qZeTUAAAAJ#)
 
 ### Conference
+
+Zhenhong Sun, Ming Lin, Xiuyu Sun, Zhiyu Tan, Hao Li and Rong Jin. **MAE-DET: Revisiting Maximum Entropy Principle in Zero-Shot NAS for Efficient Object Detection**. In Proceedings of the International Conference on Machine Learning (ICML), 2022. [[paper]](https://icml.cc/Conferences/2022/Schedule?showEvent=16416) [[arxiv]](https://arxiv.org/abs/2111.13336) [[GitHub]](https://github.com/alibaba/lightweight-neural-architecture-search) [[bib]](./mybib/mae_det_icml2022.bib)
 
 Yichen Qian, Xiuyu Sun, Ming Lin, Zhiyu Tan, Rong Jin. **Entroformer: A Transformer-based Entropy Model for Learned Image Compression**. In Proceedings of the International Conference on Learning Representations (ICLR), 2022. [[paper]](https://openreview.net/forum?id=VrjOFfcnSV8) [[GitHub]](https://github.com/damo-cv/entroformer) [[bib]](./mybib/yichen_entropy_compression_iclr2021.bib)
 
