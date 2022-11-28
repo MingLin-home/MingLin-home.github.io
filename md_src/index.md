@@ -4,17 +4,24 @@
 
 <img style="float: left; padding-right:15px" src="./ming_photo.jpg" >
 
-I am a Staff Algorithm Engineer at [DAMO Academy of Alibaba Group (U.S.)](https://damo.alibaba.com/). My research interests include Efficient Deep Learning and Statistical Machine Learning, with their applications in Neural Architecture Search, Computer Vision, Mobile AI and any other real-world problems. Before I joined Alibaba Group (U.S.), I was a Research Investigator in the Medical School of Michigan University until April 2019. I worked as a postdoctoral researcher in the School of Computer Science at Carnegie Mellon University from July 2014 to Sep 2015. I received my Ph.D. degree in computer science from Tsinghua University in 2014. During my Ph.D. study, I had been a visiting scholar in Michigan State University and in CMU from Dec 2013 to July 2014.
+I am a Senior Applied Scientist at Amazon.com LCC. My research interests include Mathematical Foundation of Deep Learning and Statistical Machine Learning, with their applications in deep learning acceleration, computer vision and mobile AI. Before I joined Amazon, I was a Staff Algorithm Engineer at [DAMO Academy of Alibaba Group (U.S.)](https://damo.alibaba.com/) from April 2018 to July 2022. I was a Research Investigator in the Medical School of Michigan University from Sep 2015 to April 2018. I worked as a postdoctoral researcher in the School of Computer Science at Carnegie Mellon University from July 2014 to Sep 2015. I received my Ph.D. degree in computer science from Tsinghua University in 2014. During my Ph.D. study, I had been a visiting scholar in Michigan State University and in CMU from Dec 2013 to July 2014.
 
 <br>
 
-Email: [ming.l@alibaba-inc.com](mailto:ming.l@alibaba-inc.com), [linming04@gmail.com](mailto:linming04@gmail.com)
+Email: [minglamz@amazon.com](mailto:minglamz@amazon.com) or [linming04@gmail.com](mailto:linming04@gmail.com)
 
-Office: Alibaba Group (U.S). 500 108th Ave NE Suit 800, Bellevue, WA 98004. <a href="https://www.google.com/maps/search/Alibaba,+108th+Avenue+Northeast+%23800,+Bellevue,+WA/@47.6156136,-122.2007005,16z/data=!3m1!4b1"> (Google Map)</a> 
+Office: 425 106th Ave NE, Bellevue, WA 98004. <a href="https://www.google.com/maps/place/Amazon+Everest+(SEA82)/@47.6141858,-122.1992323,15z/data=!4m2!3m1!1s0x0:0x95d442bd4c82fee1?sa=X&ved=2ahUKEwiJuLmz18_7AhWSI30KHSpvDtoQ_BJ6BAhlEAg"> (Google Map)</a> 
 
 <br>
 
 ## Selected Papers
+
+* Yaohua Wang, Fangyi Zhang, Ming Lin, Senzhang Wang, Xiuyu Sun, Rong Jin. **Robust Graph Structure Learning over Images via Multiple Statistical Tests**. In Proceedings of the Conference on Neural Information Processing Systems (NeurIPS), 2022. [[OpenReview](https://openreview.net/forum?id=VVCI8-PYYv)] [[bib](https://openreview.net/forum?id=VVCI8-PYYv#)]
+
+* Zhenhong Sun, Ce Ge, Junyan Wang, Ming Lin, Hesen Chen, Hao Li, Xiuyu Sun. **Entropy-Driven Mixed-Precision Quantization for Deep Network Design on IoT Devices**. In Proceedings of the Conference on Neural Information Processing Systems (NeurIPS), 2022.[[OpenReview](https://openreview.net/forum?id=E28hy5isRzC)] [[bib](https://openreview.net/forum?id=E28hy5isRzC#)]
+
+* Pichao Wang, Xue Wang, Fan Wang, Ming Lin, Shuning Chang, Hao Li, Rong Jin. **KVT: k-NN Attention for Boosting Vision Transformers**. In Proceedings of the European Conference on Computer Vision (ECCV), 2022. [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136840281.pdf)] [[bib](https://citation-needed.springer.com/v2/references/10.1007/978-3-031-20053-3_17?format=bibtex&flavour=citation)]
+
 
 * Zhenhong Sun, Ming Lin, Xiuyu Sun, Zhiyu Tan, Hao Li and Rong Jin. **MAE-DET: Revisiting Maximum Entropy Principle in Zero-Shot NAS for Efficient Object Detection**. In Proceedings of the International Conference on Machine Learning (ICML), 2022. [[paper]](https://icml.cc/Conferences/2022/Schedule?showEvent=16416) [[arxiv]](https://arxiv.org/abs/2111.13336) [[GitHub]](https://github.com/alibaba/lightweight-neural-architecture-search) [[bib]](./mybib/mae_det_icml2022.bib)
 
@@ -35,7 +42,8 @@ Office: Alibaba Group (U.S). 500 108th Ave NE Suit 800, Bellevue, WA 98004. <a h
 
 Light-NAS is an integrated, distributed, full-stack framework for Zero-Shot Neural Architecture Search based on Pytorch and OpenMPI. It is able to design efficient deep neural networks for imagenet classification and object detectin within 1~2 hours on 8 GPUs. It also includes a hardware latency prediction module in order to optimize the network throughput for GPU or mobile phone.
 
-Github repository is [here](https://github.com/alibaba/lightweight-neural-architecture-search).
+* Github repository is [here](https://github.com/alibaba/lightweight-neural-architecture-search).
+* Hugging-face online demo is [here](https://huggingface.co/spaces/zhijian/tinynas).
 
 ### Zen-NAS
 
@@ -43,20 +51,29 @@ Zen-NAS is a lightning fast, training-free Neural Architecture Searching (NAS) a
 
 ![](./myimgs/ZenNet_speed.png)
 
-Github repository is [here](https://github.com/idstcv/ZenNAS).
+* Github repository is [here](https://github.com/idstcv/ZenNAS).
+* [VALSE][http://valser.org/] Talk [[video](https://www.bilibili.com/video/BV1cd4y1K77x/?spm_id_from=333.337.search-card.all.click)] (in Chinese).
 
 ### GPU-Efficient Networks
 
 This project aims to develop GPU-Efficient networks via automatic Neural Architecture Search techniques. This project is obsoleted as our ICCV 2021 work [Zen-NAS](https://arxiv.org/abs/2102.01063) is a more powerful tool for designing GPU-efficient networks.
 
-Github repository (**obsoleted**) is [here](https://github.com/idstcv/GPU-Efficient-Networks).
+* Github repository (**obsoleted**) is [here](https://github.com/idstcv/GPU-Efficient-Networks).
 
 <br>
 <br>
 
-## Publications [[Jump to my Google Scholar]](https://scholar.google.com/citations?user=08qZeTUAAAAJ#)
+## Publications
+
+[[Jump to my Google Scholar]](https://scholar.google.com/citations?user=08qZeTUAAAAJ#)
 
 ### Conference
+
+Yaohua Wang, Fangyi Zhang, Ming Lin, Senzhang Wang, Xiuyu Sun, Rong Jin. **Robust Graph Structure Learning over Images via Multiple Statistical Tests**. In Proceedings of the Conference on Neural Information Processing Systems (NIPS), 2022. [[paper](https://nips.cc/Conferences/2022/ScheduleMultitrack?event=54278)]
+
+Zhenhong Sun, Ce Ge, Junyan Wang, Ming Lin, Hesen Chen, Hao Li, Xiuyu Sun. **EntropyDriven Mixed-Precision Quantization for Deep Network Design on IoT Devices**. In Proceedings of the Conference on Neural Information Processing Systems (NIPS), 2022.
+
+Pichao Wang, Xue Wang, Fan Wang, Ming Lin, Shuning Chang, Hao Li, Rong Jin. **KVT: k-NN Attention for Boosting Vision Transformers**. In Proceedings of the European Conference on Computer Vision (ECCV), 2022.
 
 Zhenhong Sun, Ming Lin, Xiuyu Sun, Zhiyu Tan, Hao Li and Rong Jin. **MAE-DET: Revisiting Maximum Entropy Principle in Zero-Shot NAS for Efficient Object Detection**. In Proceedings of the International Conference on Machine Learning (ICML), 2022. [[paper]](https://icml.cc/Conferences/2022/Schedule?showEvent=16416) [[arxiv]](https://arxiv.org/abs/2111.13336) [[GitHub]](https://github.com/alibaba/lightweight-neural-architecture-search) [[bib]](./mybib/mae_det_icml2022.bib)
 
