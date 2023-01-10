@@ -70,10 +70,6 @@ Pichao Wang, Xue Wang, Fan Wang, Ming Lin, Shuning Chang, Hao Li, Rong Jin. **KV
 
 Yaohua Wang, Fangyi Zhang, Ming Lin, Senzhang Wang, Xiuyu Sun, Rong Jin. **Robust Graph Structure Learning over Images via Multiple Statistical Tests**. In Proceedings of the Conference on Neural Information Processing Systems (NIPS), 2022. [[paper](https://nips.cc/Conferences/2022/ScheduleMultitrack?event=54278)]
 
-Zhenhong Sun, Ce Ge, Junyan Wang, Ming Lin, Hesen Chen, Hao Li, Xiuyu Sun. **EntropyDriven Mixed-Precision Quantization for Deep Network Design on IoT Devices**. In Proceedings of the Conference on Neural Information Processing Systems (NIPS), 2022.
-
-Pichao Wang, Xue Wang, Fan Wang, Ming Lin, Shuning Chang, Hao Li, Rong Jin. **KVT: k-NN Attention for Boosting Vision Transformers**. In Proceedings of the European Conference on Computer Vision (ECCV), 2022.
-
 Zhenhong Sun, Ming Lin, Xiuyu Sun, Zhiyu Tan, Hao Li and Rong Jin. **MAE-DET: Revisiting Maximum Entropy Principle in Zero-Shot NAS for Efficient Object Detection**. In Proceedings of the International Conference on Machine Learning (ICML), 2022. [[paper]](https://icml.cc/Conferences/2022/Schedule?showEvent=16416) [[arxiv]](https://arxiv.org/abs/2111.13336) [[GitHub]](https://github.com/alibaba/lightweight-neural-architecture-search) [[bib]](./mybib/mae_det_icml2022.bib)
 
 Yichen Qian, Xiuyu Sun, Ming Lin, Zhiyu Tan, Rong Jin. **Entroformer: A Transformer-based Entropy Model for Learned Image Compression**. In Proceedings of the International Conference on Learning Representations (ICLR), 2022. [[paper]](https://openreview.net/forum?id=VrjOFfcnSV8) [[GitHub]](https://github.com/damo-cv/entroformer) [[bib]](./mybib/yichen_entropy_compression_iclr2021.bib)
