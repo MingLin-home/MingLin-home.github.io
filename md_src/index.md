@@ -62,6 +62,8 @@ This project aims to develop GPU-Efficient networks via automatic Neural Archite
 
 ### Conference
 
+Junyan Wang, Zhenhong Sun, Yichen Qian, Dong Gong, Xiuyu Sun, Ming Lin, Maurice Pagnucco, Yang Song. **Maximizing Spatio-Temporal Entropy of Deep 3D CNNs for Efficient Video Recognition**. In Proceedings of the Eleventh International Conference on Learning Representations (ICLR), 2023. [[OpenReview](https://openreview.net/forum?id=lj1Eb1OPeNw&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2023%2FConference%2FAuthors%23your-submissions))]
+
 Yaohua Wang, Fangyi Zhang, Ming Lin, Senzhang Wang, Xiuyu Sun, Rong Jin. **Robust Graph Structure Learning over Images via Multiple Statistical Tests**. In Proceedings of the Conference on Neural Information Processing Systems (NeurIPS), 2022. [[OpenReview](https://openreview.net/forum?id=VVCI8-PYYv)] [[bib](https://openreview.net/forum?id=VVCI8-PYYv#)]
 
 Zhenhong Sun, Ce Ge, Junyan Wang, Ming Lin, Hesen Chen, Hao Li, Xiuyu Sun. **Entropy-Driven Mixed-Precision Quantization for Deep Network Design on IoT Devices**. In Proceedings of the Conference on Neural Information Processing Systems (NeurIPS), 2022.[[OpenReview](https://openreview.net/forum?id=E28hy5isRzC)] [[bib](https://openreview.net/forum?id=E28hy5isRzC#)]
