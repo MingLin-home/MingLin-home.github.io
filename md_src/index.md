@@ -4,7 +4,7 @@
 
 <img style="float: left; padding-right:15px" src="./ming_photo.jpg" >
 
-I am a Senior Applied Scientist at Amazon.com LCC. My research interests include Mathematical Foundation of Deep Learning and Statistical Machine Learning, with their applications in deep learning acceleration, computer vision and mobile AI. Before I joined Amazon, I was a Staff Algorithm Engineer at [DAMO Academy of Alibaba Group (U.S.)](https://damo.alibaba.com/) from April 2018 to July 2022. I was a Research Investigator in the Medical School of Michigan University from Sep 2015 to April 2018. I worked as a postdoctoral researcher in the School of Computer Science at Carnegie Mellon University from July 2014 to Sep 2015. I received my Ph.D. degree in computer science from Tsinghua University in 2014. During my Ph.D. study, I had been a visiting scholar in Michigan State University and in CMU from Dec 2013 to July 2014.
+I am a Senior Applied Scientist at Amazon.com LCC. My research interests include Mathematical Foundation of Deep Learning and Statistical Machine Learning, with  applications in deep learning acceleration, computer vision and mobile AI. Before I joined Amazon, I was a Staff Algorithm Engineer at [DAMO Academy of Alibaba Group (U.S.)](https://damo.alibaba.com/) from April 2018 to July 2022. I was a Research Investigator in the Medical School of Michigan University from Sep 2015 to April 2018. I worked as a postdoctoral researcher in the School of Computer Science at Carnegie Mellon University from July 2014 to Sep 2015. I received my Ph.D. degree in computer science from Tsinghua University in 2014. During my Ph.D. study, I had been a visiting scholar in Michigan State University and in CMU from Dec 2013 to July 2014.
 
 <br>
 
@@ -16,16 +16,16 @@ Office: 425 106th Ave NE, Bellevue, WA 98004. <a href="https://www.google.com/ma
 
 <br>
 
+## Public Talks
+
+* (To appear) **DeepMAD: Mathematical Architecture Design for Deep Learning**. IFML Workshop 2023. [[link]](https://www.ifml.institute/events/ifml-workshop-2023)
+* **Training-Free Approaches for Edge AI: Challenges, Opportunities and Progress**. MLSys 2022. [[link]](https://mlsys.org/Conferences/2022/Schedule?showEvent=2201)
+
 ## Selected Papers
 
-* Zhenhong Sun, Ming Lin, Xiuyu Sun, Zhiyu Tan, Hao Li and Rong Jin. **MAE-DET: Revisiting Maximum Entropy Principle in Zero-Shot NAS for Efficient Object Detection**. In Proceedings of the International Conference on Machine Learning (ICML), 2022. [[paper]](https://icml.cc/Conferences/2022/Schedule?showEvent=16416) [[arxiv]](https://arxiv.org/abs/2111.13336) [[GitHub]](https://github.com/alibaba/lightweight-neural-architecture-search) [[bib]](./mybib/mae_det_icml2022.bib)
-
-* Ming Lin, Pichao Wang, Zhenhong Sun, Hesen Chen, Xiuyu Sun, Qi Qian, Hao Li, Rong Jin. **Zen-NAS: A Zero-Shot NAS for High-Performance Deep Image Recognition**. In Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 2021.  [[paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Lin_Zen-NAS_A_Zero-Shot_NAS_for_High-Performance_Image_Recognition_ICCV_2021_paper.html) [[arXiv]](https://arxiv.org/abs/2102.01063)  [[bib]](./mybib/zennas_iccv2021.bib)
+* Xuan Shen, Yaohua Wang, Ming Lin, Yilun Huang, Hao Tang, Xiuyu Sun, Yanzhi Wang. **DeepMAD: Mathematical Architecture Design for Deep Convolutional Neural Network**. In Proceedings of the IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2023. [[arXiv]](https://arxiv.org/abs/2303.02165)
 
 * Yiqi Jiang, Zhiyu Tan, Junyan Wang, Xiuyu Sun, Ming Lin, Hao Li. **GiraffeDet: A Heavy-Neck Paradigm for Object Detection**. In Proceedings of the International Conference on Learning Representations (ICLR), 2022. [[paper]](https://openreview.net/forum?id=cBu4ElJfneV) [[GitHub]](https://github.com/jyqi/GiraffeDet) [[bib]](./mybib/jiang2022giraffedet.bib)
-
-* Ming Lin, Jieping Ye. **A Non-convex One-Pass Framework for Generalized Factorization Machine and Rank-One Matrix Sensing**. In Proceedings of the 30th Annual Conference on Neural Information Processing Systems (NIPS), Pages 1633-1641, 2016.  [[paper]](https://proceedings.neurips.cc/paper/2016/hash/0a113ef6b61820daa5611c870ed8d5ee-Abstract.html) [[arXiv]](https://arxiv.org/abs/1608.05995v5)  [[bib]](./mybib/NIPS-2016-GFM.bib) [[Github]](https://github.com/MingLin-home/gFM)
-
 
 * Zhenzhong Lan, Ming Lin, Xuanchong Li, Alexander G. Hauptmann, Bhiksha Raj. **Beyond Gaussian Pyramid: Multi-skip Feature Stacking for Action Recognition**. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Page 204-212, 2015.  [[paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Lan_Beyond_Gaussian_Pyramid_2015_CVPR_paper.html) [[arXiv]](https://arxiv.org/abs/1411.6660)  [[bib]](./mybib/Beyond_Gaussian_Pyramid_CVPR_2015.bib)
 
@@ -33,9 +33,9 @@ Office: 425 106th Ave NE, Bellevue, WA 98004. <a href="https://www.google.com/ma
 
 ## Projects
 
-### Light-NAS
+### Tiny-NAS
 
-Light-NAS is an integrated, distributed, full-stack framework for Zero-Shot Neural Architecture Search based on Pytorch and OpenMPI. It is able to design efficient deep neural networks for imagenet classification and object detectin within 1~2 hours on 8 GPUs. It also includes a hardware latency prediction module in order to optimize the network throughput for GPU or mobile phone.
+Tiny-NAS is an integrated, distributed, full-stack framework for Zero-Shot Neural Architecture Search based on Pytorch and OpenMPI. It is able to design efficient deep neural networks for imagenet classification and object detectin within 1~2 hours on 8 GPUs. It also includes a hardware latency prediction module in order to optimize the network throughput for GPU or mobile phone.
 
 * Github repository is [here](https://github.com/alibaba/lightweight-neural-architecture-search).
 * Hugging-face online demo is [here](https://huggingface.co/spaces/zhijian/tinynas).
@@ -61,6 +61,10 @@ This project aims to develop GPU-Efficient networks via automatic Neural Archite
 ## Publications
 
 ### Conference
+
+Xuan Shen, Yaohua Wang, Ming Lin, Yilun Huang, Hao Tang, Xiuyu Sun, Yanzhi Wang. **DeepMAD: Mathematical Architecture Design for Deep Convolutional Neural Network**. In Proceedings of the IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2023. [[arXiv]](https://arxiv.org/abs/2303.02165)
+
+Shuning Chang, Pichao Wang, Ming Lin, Fan Wang, David Junhao Zhang, Rong Jin, Mike Zheng Shou. **Making Vision Transformers Efficient from A Token Sparsification View**. In Proceedings of the IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2023. [[arXiv]](https://arxiv.org/abs/2303.08685)
 
 Junyan Wang, Zhenhong Sun, Yichen Qian, Dong Gong, Xiuyu Sun, Ming Lin, Maurice Pagnucco, Yang Song. **Maximizing Spatio-Temporal Entropy of Deep 3D CNNs for Efficient Video Recognition**. In Proceedings of the Eleventh International Conference on Learning Representations (ICLR), 2023. [[OpenReview](https://openreview.net/forum?id=lj1Eb1OPeNw&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2023%2FConference%2FAuthors%23your-submissions))]
 
