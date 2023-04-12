@@ -19,8 +19,11 @@ Office: 425 106th Ave NE, Bellevue, WA 98004. <a href="https://www.google.com/ma
 ## Public Talks
 
 * (To appear) **DeepMAD: Mathematical Architecture Design for Deep Learning**. IFML Workshop 2023. [[link]](https://www.ifml.institute/events/ifml-workshop-2023)
+
 * **Training-Free Approaches for Edge AI: Challenges, Opportunities and Progress**. MLSys 2022. [[link]](https://mlsys.org/Conferences/2022/Schedule?showEvent=2201)
 
+* VALSE Talk [[video]](https://www.bilibili.com/video/BV1cd4y1K77x/?spm_id_from=333.337.search-card.all.click) (Chinese)
+ 
 ## Selected Papers
 
 * Xuan Shen, Yaohua Wang, Ming Lin, Yilun Huang, Hao Tang, Xiuyu Sun, Yanzhi Wang. **DeepMAD: Mathematical Architecture Design for Deep Convolutional Neural Network**. In Proceedings of the IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2023. [[arXiv]](https://arxiv.org/abs/2303.02165)
