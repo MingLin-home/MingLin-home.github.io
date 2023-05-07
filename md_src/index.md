@@ -18,7 +18,7 @@ Office: 425 106th Ave NE, Bellevue, WA 98004. <a href="https://www.google.com/ma
 
 ## Public Talks
 
-* (To appear) **DeepMAD: Mathematical Architecture Design for Deep Learning**. IFML Workshop 2023. [[link]](https://www.ifml.institute/events/ifml-workshop-2023)
+* **DeepMAD: Mathematical Architecture Design for Deep Learning**. IFML Workshop 2023. [[link]](https://ifml-uw.github.io/IFML-Workshop-2023/)
 
 * **Training-Free Approaches for Edge AI: Challenges, Opportunities and Progress**. MLSys 2022. [[link]](https://mlsys.org/Conferences/2022/Schedule?showEvent=2201)
 
