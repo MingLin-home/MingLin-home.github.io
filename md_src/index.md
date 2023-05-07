@@ -65,7 +65,7 @@ This project aims to develop GPU-Efficient networks via automatic Neural Archite
 
 ### Conference
 
-Xuan Shen, Yaohua Wang, Ming Lin, Yilun Huang, Hao Tang, Xiuyu Sun, Yanzhi Wang. **DeepMAD: Mathematical Architecture Design for Deep Convolutional Neural Network**. In Proceedings of the IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2023. [[arXiv]](https://arxiv.org/abs/2303.02165)
+Xuan Shen, Yaohua Wang, Ming Lin, Yilun Huang, Hao Tang, Xiuyu Sun, Yanzhi Wang. **DeepMAD: Mathematical Architecture Design for Deep Convolutional Neural Network**. In Proceedings of the IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2023. [[arXiv]](https://arxiv.org/abs/2303.02165) [[Github]](https://github.com/alibaba/lightweight-neural-architecture-search)
 
 Shuning Chang, Pichao Wang, Ming Lin, Fan Wang, David Junhao Zhang, Rong Jin, Mike Zheng Shou. **Making Vision Transformers Efficient from A Token Sparsification View**. In Proceedings of the IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2023. [[arXiv]](https://arxiv.org/abs/2303.08685)
 
