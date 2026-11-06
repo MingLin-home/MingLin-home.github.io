@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title">
+  <title id="title">Robot navigation graph</title>
+
+  <g fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M105 330C210 330 220 120 345 120s120 210 255 210h90" opacity=".82" stroke-width="8"/>
+    <path d="m645 300 45 30-45 30" stroke-width="8"/>
+    <g fill="#fff" stroke-width="5"><circle cx="105" cy="330" r="18"/><circle cx="345" cy="120" r="18"/><circle cx="600" cy="330" r="18"/></g>
+    <rect x="310" y="188" width="180" height="115" rx="30" stroke-width="8"/>
+    <circle cx="355" cy="242" r="13" fill="#fff" stroke="none"/><circle cx="445" cy="242" r="13" fill="#fff" stroke="none"/>
+    <path d="M365 275h70M400 188v-35m0 0 20-18" stroke-width="8"/>
+  </g>
+</svg>

@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ming Lin</title><link>https://minglin-home.github.io/</link><atom:link href="https://minglin-home.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Ming Lin</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 06 Nov 2026 00:00:00 +0000</lastBuildDate><image><url>https://minglin-home.github.io/media/icon_hu_2f5b0e2a946ddb14.png</url><title>Ming Lin</title><link>https://minglin-home.github.io/</link></image><item><title>Unified Humanoid Whole-Body Control</title><link>https://minglin-home.github.io/projects/humanoid-control/</link><pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate><guid>https://minglin-home.github.io/projects/humanoid-control/</guid><description>&lt;p&gt;We are researching a unified whole-body control model that can generalize across
+humanoid robot platforms. The model accepts a robot&amp;rsquo;s hardware configuration as
+context, with the long-term goal of operating across embodiments without
+platform-specific fine-tuning.&lt;/p&gt;
+&lt;p&gt;NVIDIA GR00T is the current base model, although the method is designed to extend
+to other control architectures. Initial cross-platform generalization has been
+demonstrated, and work continues on robustness and transfer.&lt;/p&gt;</description></item><item><title>Synthetic-Data RL for VLA Models</title><link>https://minglin-home.github.io/projects/synthetic-vla/</link><pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate><guid>https://minglin-home.github.io/projects/synthetic-vla/</guid><description>&lt;p&gt;We are building a framework for training vision-language-action models to perform
+complex manipulation tasks in data center environments without requiring human
+demonstrations or teleoperation data.&lt;/p&gt;
+&lt;p&gt;Pre-programmed policies initialize reinforcement learning, while diverse synthetic
+scenes provide scalable experience. The goal is to reduce the cost and operational
+burden of collecting task-specific demonstration data.&lt;/p&gt;</description></item><item><title>Robot-Agnostic Navigation</title><link>https://minglin-home.github.io/projects/robot-navigation/</link><pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate><guid>https://minglin-home.github.io/projects/robot-navigation/</guid><description>&lt;p&gt;We are developing a lightweight navigation runtime for a broad range of robotic
+platforms. The system uses a graph-based representation and deep-learning-derived
+visual features as anchor points, minimizing robot-specific dependencies and
+simplifying deployment across different robot embodiments.&lt;/p&gt;
+&lt;p&gt;The robot-agnostic architecture is implemented, with broader cross-platform
+validation in progress.&lt;/p&gt;</description></item><item><title>Multi-Robot Mission Orchestration</title><link>https://minglin-home.github.io/projects/multi-robot/</link><pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate><guid>https://minglin-home.github.io/projects/multi-robot/</guid><description>&lt;p&gt;We are developing a mission-orchestration system for multiple robots executing
+concurrent tasks in data centers. Robot availability, task priorities, resource
+constraints, and operating conditions change continuously, creating a dynamic,
+non-convex scheduling problem.&lt;/p&gt;
+&lt;p&gt;Our approach uses deep reinforcement learning to optimize mission allocation and
+scheduling across the fleet.&lt;/p&gt;</description></item><item><title>Efficient Model Design</title><link>https://minglin-home.github.io/projects/efficient-model-design/</link><pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate><guid>https://minglin-home.github.io/projects/efficient-model-design/</guid><description>&lt;p&gt;My work in neural architecture search focuses on training-free search,
+hardware-aware model design, and efficient architectures for vision and language
+models.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tiny-NAS&lt;/strong&gt; is a distributed, full-stack framework for zero-shot neural
+architecture search, with hardware-latency prediction for GPU and mobile
+deployment. &lt;strong&gt;Zen-NAS&lt;/strong&gt; is a fast, training-free method for finding models that
+balance predictive accuracy and inference efficiency.&lt;/p&gt;
+&lt;p&gt;
+·
+&lt;/p&gt;</description></item><item><title>Experience</title><link>https://minglin-home.github.io/experience/</link><pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate><guid>https://minglin-home.github.io/experience/</guid><description/></item><item><title>Publications</title><link>https://minglin-home.github.io/publications/</link><pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate><guid>https://minglin-home.github.io/publications/</guid><description>&lt;p&gt;My research spans reinforcement learning, robotics, efficient AI systems, neural
+architecture search, optimization, computer vision, and statistical machine
+learning.&lt;/p&gt;
+&lt;p&gt;
+·
+&lt;/p&gt;
+&lt;h3 id="conference-papers"&gt;Conference Papers&lt;/h3&gt;
+&lt;p&gt;Siqi Guo, Ming Lin, Tianbao Yang. &lt;strong&gt;DRTriton: Large-Scale Synthetic Data Driven Reinforcement Learning for Triton Kernel Generation.&lt;/strong&gt; Conference on Neural Information Processing Systems (NeurIPS), 2026.&lt;br&gt;
+·
+&lt;/p&gt;
+&lt;p&gt;Gang Li, Yan Chen, Ming Lin, Tianbao Yang. &lt;strong&gt;DRPO: Efficient Reasoning via Decoupled Reward Policy Optimization.&lt;/strong&gt; International Conference on Learning Representations (ICLR), 2026.&lt;br&gt;
+·
+&lt;/p&gt;
+&lt;p&gt;Gang Li, Ming Lin, Tomer Galanti, Zhengzhong Tu, Tianbao Yang. &lt;strong&gt;DisCO: Reinforcing Large Reasoning Models with Discriminative Constrained Optimization.&lt;/strong&gt; Conference on Neural Information Processing Systems (NeurIPS), 2025.&lt;br&gt;
+·
+·
+&lt;/p&gt;
+&lt;p&gt;Youpeng Zhao, Ming Lin, Huadong Tang, Qiang Wu, Jun Wang. &lt;strong&gt;MeRino: Entropy-Driven Design for Generative Language Models on IoT Devices.&lt;/strong&gt; AAAI Conference on Artificial Intelligence (AAAI), 2025.&lt;br&gt;
+·
+&lt;/p&gt;
+&lt;p&gt;Xiyuan Wei, Ming Lin, Fanjiang Ye, Fengguang Song, Liangliang Cao, My T. Thai, Tianbao Yang. &lt;strong&gt;Model Steering: Learning with a Reference Model Improves Generalization Bounds and Scaling Laws.&lt;/strong&gt; International Conference on Machine Learning (ICML), 2025.&lt;br&gt;
+·
+&lt;/p&gt;
+&lt;p&gt;Xuan Shen, Pu Zhao, Yifan Gong, Zhenglun Kong, Zheng Zhan, Yushu Wu, Ming Lin, Chao Wu, Xue Lin, Yanzhi Wang. &lt;strong&gt;Search for Efficient Large Language Models.&lt;/strong&gt; Conference on Neural Information Processing Systems (NeurIPS), 2024.&lt;br&gt;
+·
+·
+&lt;/p&gt;
+&lt;p&gt;Xuan Shen, Peiyan Dong, Lei Lu, Zhenglun Kong, Zhengang Li, Ming Lin, Chao Wu, Yanzhi Wang. &lt;strong&gt;Agile-Quant: Activation-Guided Quantization for Faster Inference of LLMs on the Edge.&lt;/strong&gt; AAAI Conference on Artificial Intelligence (AAAI), 2024.&lt;br&gt;
+·
+&lt;/p&gt;
+&lt;p&gt;Xuan Shen, Yaohua Wang, Ming Lin, Yilun Huang, Hao Tang, Xiuyu Sun, Yanzhi Wang. &lt;strong&gt;DeepMAD: Mathematical Architecture Design for Deep Convolutional Neural Network.&lt;/strong&gt; IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023.&lt;br&gt;
+·
+·
+&lt;/p&gt;
+&lt;p&gt;Junyan Wang, Zhenhong Sun, Yichen Qian, Dong Gong, Xiuyu Sun, Ming Lin, Maurice Pagnucco, Yang Song. &lt;strong&gt;Maximizing Spatio-Temporal Entropy of Deep 3D CNNs for Efficient Video Recognition.&lt;/strong&gt; International Conference on Learning Representations (ICLR), 2023.&lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;Shuning Chang, Pichao Wang, Ming Lin, Fan Wang, David Junhao Zhang, Rong Jin, Mike Zheng Shou. &lt;strong&gt;Making Vision Transformers Efficient from a Token Sparsification View.&lt;/strong&gt; IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023.&lt;br&gt;
+·
+&lt;/p&gt;
+&lt;p&gt;Zhenhong Sun, Ce Ge, Junyan Wang, Ming Lin, Hesen Chen, Hao Li, Xiuyu Sun. &lt;strong&gt;Entropy-Driven Mixed-Precision Quantization for Deep Network Design on IoT Devices.&lt;/strong&gt; Conference on Neural Information Processing Systems (NeurIPS), 2022.&lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;Zhenhong Sun, Ming Lin, Xiuyu Sun, Zhiyu Tan, Hao Li, Rong Jin. &lt;strong&gt;MAE-DET: Revisiting Maximum Entropy Principle in Zero-Shot NAS for Efficient Object Detection.&lt;/strong&gt; International Conference on Machine Learning (ICML), 2022.&lt;br&gt;
+·
+·
+·
+&lt;/p&gt;
+&lt;p&gt;Yiqi Jiang, Zhiyu Tan, Junyan Wang, Xiuyu Sun, Ming Lin, Hao Li. &lt;strong&gt;GiraffeDet: A Heavy-Neck Paradigm for Object Detection.&lt;/strong&gt; International Conference on Learning Representations (ICLR), 2022.&lt;br&gt;
+·
+·
+&lt;/p&gt;
+&lt;p&gt;Yaohua Wang, Fangyi Zhang, Ming Lin, Senzhang Wang, Xiuyu Sun, Rong Jin. &lt;strong&gt;Robust Graph Structure Learning over Images via Multiple Statistical Tests.&lt;/strong&gt; Conference on Neural Information Processing Systems (NeurIPS), 2022.&lt;br&gt;
+·
+&lt;/p&gt;
+&lt;p&gt;Pichao Wang, Xue Wang, Fan Wang, Ming Lin, Shuning Chang, Hao Li, Rong Jin. &lt;strong&gt;KVT: k-NN Attention for Boosting Vision Transformers.&lt;/strong&gt; European Conference on Computer Vision (ECCV), 2022.&lt;br&gt;
+·
+·
+&lt;/p&gt;
+&lt;p&gt;Yichen Qian, Xiuyu Sun, Ming Lin, Zhiyu Tan, Rong Jin. &lt;strong&gt;Entroformer: A Transformer-Based Entropy Model for Learned Image Compression.&lt;/strong&gt; International Conference on Learning Representations (ICLR), 2022.&lt;br&gt;
+·
+·
+&lt;/p&gt;
+&lt;p&gt;Yaohua Wang, Yaobin Zhang, Fangyi Zhang, Senzhang Wang, Ming Lin, YuQi Zhang, Xiuyu Sun. &lt;strong&gt;Ada-NETS: Face Clustering via Adaptive Neighbour Discovery in the Structure Space.&lt;/strong&gt; International Conference on Learning Representations (ICLR), 2022.&lt;br&gt;
+·
+·
+&lt;/p&gt;
+&lt;p&gt;Yichen Qian, Zhiyu Tan, Xiuyu Sun, Ming Lin, Dongyang Li, Zhenhong Sun, Hao Li, Rong Jin. &lt;strong&gt;Learning Accurate Entropy Model with Global Reference for Image Compression.&lt;/strong&gt; International Conference on Learning Representations (ICLR), 2021.&lt;br&gt;
+·
+&lt;/p&gt;
+&lt;p&gt;Ming Lin, Pichao Wang, Zhenhong Sun, Hesen Chen, Xiuyu Sun, Qi Qian, Hao Li, Rong Jin. &lt;strong&gt;Zen-NAS: A Zero-Shot NAS for High-Performance Image Recognition.&lt;/strong&gt; IEEE/CVF International Conference on Computer Vision (ICCV), 2021.&lt;br&gt;
+·
+·
+·
+&lt;/p&gt;
+&lt;p&gt;Ming Lin, Xiaomin Song, Qi Qian, Hao Li, Liang Sun, Shenghuo Zhu, Rong Jin. &lt;strong&gt;Robust Gaussian Process Regression for Real-Time High-Precision GPS Signal Enhancement.&lt;/strong&gt; ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2019.&lt;br&gt;
+·
+·
+&lt;/p&gt;
+&lt;p&gt;Hesen Chen, Ming Lin, Xiuyu Sun, Qi Qian, Hao Li, Rong Jin. &lt;strong&gt;MuffNet: Multi-Layer Feature Federation for Mobile Deep Learning.&lt;/strong&gt; IEEE/CVF International Conference on Computer Vision Workshops (ICCVW), 2019.&lt;br&gt;
+·
+&lt;/p&gt;
+&lt;p&gt;Ming Lin, Shuang Qiu, Jieping Ye, Xiaomin Song, Qi Qian, Liang Sun, Shenghuo Zhu, Rong Jin. &lt;strong&gt;Which Factorization Machine Modeling Is Better: A Theoretical Answer with Optimal Guarantee.&lt;/strong&gt; AAAI Conference on Artificial Intelligence (AAAI), 2019.&lt;br&gt;
+·
+·
+&lt;/p&gt;
+&lt;p&gt;Tieliang Gong, Guangtao Wang, Jieping Ye, Zongben Xu, Ming Lin. &lt;strong&gt;Margin-Based PU Learning.&lt;/strong&gt; AAAI Conference on Artificial Intelligence (AAAI), 2018.&lt;br&gt;
+·
+·
+&lt;/p&gt;
+&lt;p&gt;Xiang Li, Aoxiao Zhong, Ming Lin, Ning Guo, Mu Sun, Arkadiusz Sitek, Jieping Ye, James Thrall, Quanzheng Li. &lt;strong&gt;Self-Paced Convolutional Neural Network for Computer-Aided Detection in Medical Imaging Analysis.&lt;/strong&gt; International Workshop on Machine Learning in Medical Imaging (MLMI), 2017.&lt;br&gt;
+·
+·
+&lt;/p&gt;
+&lt;p&gt;Zhenzhong Lan, Shoou-I Yu, Dezhong Yao, Ming Lin, Bhiksha Raj, Alexander G. Hauptmann. &lt;strong&gt;The Best of Both Worlds: Combining Data-Independent and Data-Driven Approaches for Action Recognition.&lt;/strong&gt; IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), 2016.&lt;br&gt;
+·
+·
+&lt;/p&gt;
+&lt;p&gt;Ming Lin, Jieping Ye. &lt;strong&gt;A Non-Convex One-Pass Framework for Generalized Factorization Machine and Rank-One Matrix Sensing.&lt;/strong&gt; Conference on Neural Information Processing Systems (NeurIPS), 2016.&lt;br&gt;
+·
+·
+·
+&lt;/p&gt;
+&lt;p&gt;Chuang Gan, Ming Lin, Yi Yang, Gerard de Melo, Alexander G. Hauptmann. &lt;strong&gt;Concepts Not Alone: Exploring Pairwise Relationships for Zero-Shot Video Activity Recognition.&lt;/strong&gt; AAAI Conference on Artificial Intelligence (AAAI), 2016.&lt;br&gt;
+·
+&lt;/p&gt;
+&lt;p&gt;Chuang Gan, Ming Lin, Yi Yang, Alexander G. Hauptmann. &lt;strong&gt;Exploring Semantic Inter-Class Relationships for Zero-Shot Action Recognition.&lt;/strong&gt; AAAI Conference on Artificial Intelligence (AAAI), 2015.&lt;br&gt;
+·
+&lt;/p&gt;
+&lt;p&gt;Zhenzhong Lan, Ming Lin, Xuanchong Li, Alexander G. Hauptmann, Bhiksha Raj. &lt;strong&gt;Beyond Gaussian Pyramid: Multi-Skip Feature Stacking for Action Recognition.&lt;/strong&gt; IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2015.&lt;br&gt;
+·
+·
+&lt;/p&gt;
+&lt;p&gt;Ming Lin, Zhenzhong Lan, Alexander G. Hauptmann. &lt;strong&gt;Density-Corrected Sparse Recovery When the R.I.P. Condition Is Broken.&lt;/strong&gt; International Joint Conference on Artificial Intelligence (IJCAI), 2015.&lt;br&gt;
+·
+&lt;/p&gt;
+&lt;p&gt;Shoou-I Yu, Lu Jiang, Zexi Mao, Xiaojun Chang, Xingzhong Du, Chuang Gan, Zhenzhong Lan, Zhongwen Xu, Xuanchong Li, Yang Cai, Anurag Kumar, Yajie Miao, Lara Martin, Nikolas Wolfe, Shicheng Xu, Huan Li, Ming Lin, Zhigang Ma, Yi Yang, Deyu Meng, Shiguang Shan, Pinar Duygulu Sahin, Susanne Burger, Florian Metze, Rita Singh, Bhiksha Raj, Teruko Mitamura, Richard Stern, Alexander G. Hauptmann. &lt;strong&gt;Informedia@TRECVID 2014 MED and MER.&lt;/strong&gt; NIST TRECVID Video Retrieval Evaluation Workshop (TRECVID), 2014.&lt;br&gt;
+·
+&lt;/p&gt;
+&lt;p&gt;Ming Lin, Rong Jin, Changshui Zhang. &lt;strong&gt;Efficient Sparse Recovery via Adaptive Non-Convex Regularizers with Oracle Property.&lt;/strong&gt; Conference on Uncertainty in Artificial Intelligence (UAI), 2014.&lt;br&gt;
+·
+·
+&lt;/p&gt;
+&lt;p&gt;Lijun Zhang, Jinfeng Yi, Rong Jin, Ming Lin, Xiaofei He. &lt;strong&gt;Online Kernel Learning with a Near-Optimal Sparsity Bound.&lt;/strong&gt; International Conference on Machine Learning (ICML), 2013.&lt;br&gt;
+·
+&lt;/p&gt;
+&lt;h3 id="journal-papers"&gt;Journal Papers&lt;/h3&gt;
+&lt;p&gt;Guihong Li, Duc Hoang, Kartikeya Bhardwaj, Ming Lin, Zhangyang Wang, Radu Marculescu. &lt;strong&gt;Zero-Shot Neural Architecture Search: Challenges, Solutions, and Opportunities.&lt;/strong&gt; IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024.&lt;br&gt;
+·
+&lt;/p&gt;
+&lt;p&gt;Jian Liang, Kun Chen, Ming Lin, Changshui Zhang, Fei Wang. &lt;strong&gt;Robust Finite Mixture Regression for Heterogeneous Targets.&lt;/strong&gt; Data Mining and Knowledge Discovery, 2018.&lt;br&gt;
+·
+&lt;/p&gt;
+&lt;p&gt;Ming Lin, Pinghua Gong, Tao Yang, Jieping Ye, Roger L. Albin, Hiroko H. Dodge. &lt;strong&gt;Big Data Analytical Approaches to the NACC Dataset: Aiding Preclinical Trial Enrichment.&lt;/strong&gt; Alzheimer Disease and Associated Disorders, 2018.&lt;br&gt;
+·
+&lt;/p&gt;
+&lt;p&gt;Daqing Chang, Ming Lin, Changshui Zhang. &lt;strong&gt;On the Generalization Ability of Online Gradient Descent Algorithm Under the Quadratic Growth Condition.&lt;/strong&gt; IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2018.&lt;br&gt;
+·
+&lt;/p&gt;
+&lt;p&gt;Ming Lin, Vaibhav Narayan, Wayne C. Drevets, Jieping Ye, Qingqin Li. &lt;strong&gt;Application of Growth Mixture Modeling in Antidepressant Treatment Response Studies.&lt;/strong&gt; Biological Psychiatry, 2017.&lt;br&gt;
+·
+&lt;/p&gt;
+&lt;p&gt;Xiaojun Chang, Zhigang Ma, Ming Lin, Yi Yang, Alexander G. Hauptmann. &lt;strong&gt;Feature Interaction Augmented Sparse Learning for Fast Kinect Motion Detection.&lt;/strong&gt; IEEE Transactions on Image Processing (TIP), 2017.&lt;br&gt;
+·
+&lt;/p&gt;
+&lt;p&gt;Shoou-I Yu, Yi Yang, Zhongwen Xu, Shicheng Xu, Deyu Meng, Zexi Mao, Zhigang Ma, Ming Lin, Xuanchong Li, Huan Li, Zhenzhong Lan, Lu Jiang, Alexander G. Hauptmann, Chuang Gan, Xingzhong Du, Xiaojun Chang. &lt;strong&gt;Strategies for Searching Video Content with Text Queries or Video Examples.&lt;/strong&gt; ITE Transactions on Media Technology and Applications, 2016.&lt;br&gt;
+·
+·
+&lt;/p&gt;
+&lt;p&gt;Ming Lin, Lijun Zhang, Rong Jin, Shifeng Weng, Changshui Zhang. &lt;strong&gt;Online Kernel Learning with Nearly Constant Support Vectors.&lt;/strong&gt; Neurocomputing, 2016.&lt;br&gt;
+·
+&lt;/p&gt;
+&lt;p&gt;Zheng Hu, Ming Lin, Changshui Zhang. &lt;strong&gt;Dependent Online Kernel Learning with a Constant Number of Random Fourier Features.&lt;/strong&gt; IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2015.&lt;br&gt;
+·
+&lt;/p&gt;
+&lt;p&gt;Zheng Pan, Ming Lin, Guangdong Hou, Changshui Zhang. &lt;strong&gt;Damping Proximal Coordinate Descent Algorithm for Non-Convex Regularization.&lt;/strong&gt; Neurocomputing, 2015.&lt;br&gt;
+·
+&lt;/p&gt;
+&lt;p&gt;Ming Lin, Fei Wang, Changshui Zhang. &lt;strong&gt;Large-Scale Eigenvector Approximation via Hilbert Space Embedding Nyström.&lt;/strong&gt; Pattern Recognition (PR), 2015.&lt;br&gt;
+·
+&lt;/p&gt;
+&lt;p&gt;Ming Lin, Shifeng Weng, Changshui Zhang. &lt;strong&gt;On the Sample Complexity of Random Fourier Features for Online Learning: How Many Random Fourier Features Do We Need?&lt;/strong&gt; ACM Transactions on Knowledge Discovery from Data (TKDD), 2014.&lt;br&gt;
+·
+&lt;/p&gt;
+&lt;p&gt;Shizhun Yang, Ming Lin, Chenping Hou, Changshui Zhang, Yi Wu. &lt;strong&gt;A General Framework for Transfer Sparse Subspace Learning.&lt;/strong&gt; Neural Computing and Applications, 2012.&lt;br&gt;
+·
+&lt;/p&gt;
+&lt;h3 id="preprints"&gt;Preprints&lt;/h3&gt;
+&lt;p&gt;Ming Lin, Hesen Chen, Xiuyu Sun, Qi Qian, Hao Li, Rong Jin. &lt;strong&gt;Neural Architecture Design for GPU-Efficient Networks.&lt;/strong&gt; arXiv preprint, 2020.&lt;br&gt;
+·
+&lt;/p&gt;
+&lt;p&gt;Yonathan Aflalo, Asaf Noy, Ming Lin, Itamar Friedman, Lihi Zelnik. &lt;strong&gt;Knapsack Pruning with Inner Distillation.&lt;/strong&gt; arXiv preprint, 2020.&lt;br&gt;
+·
+&lt;/p&gt;
+&lt;p&gt;Yi Xu, Asaf Noy, Ming Lin, Qi Qian, Hao Li, Rong Jin. &lt;strong&gt;WeMix: How to Better Utilize Data Augmentation.&lt;/strong&gt; arXiv preprint, 2020.&lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;Shuang Qiu, Tingjin Luo, Jieping Ye, Ming Lin. &lt;strong&gt;Nonconvex One-Bit Single-Label Multi-Label Learning.&lt;/strong&gt; arXiv preprint, 2017.&lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;Ming Lin, Shuang Qiu, Bin Hong, Jieping Ye. &lt;strong&gt;The Second-Order Linear Model.&lt;/strong&gt; arXiv preprint, 2017.&lt;br&gt;
+·
+&lt;/p&gt;
+&lt;p&gt;Zhenzhong Lan, Xuanchong Li, Ming Lin, Alexander G. Hauptmann. &lt;strong&gt;Long-Short-Term Motion Feature for Action Classification and Retrieval.&lt;/strong&gt; arXiv preprint, 2015.&lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;Zhenzhong Lan, Shoou-I Yu, Ming Lin, Bhiksha Raj, Alexander G. Hauptmann. &lt;strong&gt;Handcrafted Local Features Are Convolutional Neural Networks.&lt;/strong&gt; arXiv preprint, 2015.&lt;br&gt;
+&lt;/p&gt;</description></item><item><title>Research</title><link>https://minglin-home.github.io/research/</link><pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate><guid>https://minglin-home.github.io/research/</guid><description/></item><item><title>Talks</title><link>https://minglin-home.github.io/talks/</link><pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate><guid>https://minglin-home.github.io/talks/</guid><description>&lt;h2 id="selected-public-talks"&gt;Selected public talks&lt;/h2&gt;
+&lt;h3 id="deepmad-mathematical-architecture-design-for-deep-learning"&gt;DeepMAD: Mathematical Architecture Design for Deep Learning&lt;/h3&gt;
+&lt;p&gt;IFML Workshop, 2023.
+&lt;/p&gt;
+&lt;h3 id="training-free-approaches-for-edge-ai-challenges-opportunities-and-progress"&gt;Training-Free Approaches for Edge AI: Challenges, Opportunities and Progress&lt;/h3&gt;
+&lt;p&gt;MLSys, 2022.
+&lt;/p&gt;
+&lt;h3 id="zero-shot-neural-architecture-search"&gt;Zero-Shot Neural Architecture Search&lt;/h3&gt;
+&lt;p&gt;VALSE.
+&lt;/p&gt;</description></item></channel></rss>

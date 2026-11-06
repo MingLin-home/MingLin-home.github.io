@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Humanoids | Ming Lin</title><link>https://minglin-home.github.io/tags/humanoids/</link><atom:link href="https://minglin-home.github.io/tags/humanoids/index.xml" rel="self" type="application/rss+xml"/><description>Humanoids</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 06 Nov 2026 00:00:00 +0000</lastBuildDate><image><url>https://minglin-home.github.io/media/icon_hu_2f5b0e2a946ddb14.png</url><title>Humanoids</title><link>https://minglin-home.github.io/tags/humanoids/</link></image><item><title>Unified Humanoid Whole-Body Control</title><link>https://minglin-home.github.io/projects/humanoid-control/</link><pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate><guid>https://minglin-home.github.io/projects/humanoid-control/</guid><description>&lt;p&gt;We are researching a unified whole-body control model that can generalize across
+humanoid robot platforms. The model accepts a robot&amp;rsquo;s hardware configuration as
+context, with the long-term goal of operating across embodiments without
+platform-specific fine-tuning.&lt;/p&gt;
+&lt;p&gt;NVIDIA GR00T is the current base model, although the method is designed to extend
+to other control architectures. Initial cross-platform generalization has been
+demonstrated, and work continues on robustness and transfer.&lt;/p&gt;</description></item></channel></rss>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title">
+  <title id="title">Efficient neural architecture design</title>
+
+  <g fill="none" stroke="#fff" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="265" y="92" width="270" height="270" rx="38"/>
+    <rect x="330" y="157" width="140" height="140" rx="18"/>
+    <path d="M300 62v30m65-30v30m70-30v30m65-30v30M300 362v30m65-30v30m70-30v30m65-30v30M235 127h30m-30 65h30m-30 70h30m-30 65h30M535 127h30m-30 65h30m-30 70h30m-30 65h30"/>
+    <path d="m365 245 25-62 22 42 25-55"/>
+  </g>
+</svg>

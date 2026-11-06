@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title">
+  <title id="title">Vision-language-action learning loop</title>
+
+  <g fill="none" stroke="#fff" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M120 220s105-125 210 0c-105 125-210 0-210 0Z"/><circle cx="225" cy="220" r="34"/>
+    <path d="M395 120h155a35 35 0 0 1 35 35v80a35 35 0 0 1-35 35h-60l-45 45v-45h-50a35 35 0 0 1-35-35v-80a35 35 0 0 1 35-35Z"/>
+    <path d="M455 165h80M425 205h110"/>
+    <path d="M620 315c45-10 67-43 60-85M645 196l35 34 30-38"/>
+    <path d="M615 330h70l30 35H585l30-35Z"/>
+  </g>
+</svg>

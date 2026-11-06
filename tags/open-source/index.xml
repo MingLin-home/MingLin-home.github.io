@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Open Source | Ming Lin</title><link>https://minglin-home.github.io/tags/open-source/</link><atom:link href="https://minglin-home.github.io/tags/open-source/index.xml" rel="self" type="application/rss+xml"/><description>Open Source</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 06 Nov 2026 00:00:00 +0000</lastBuildDate><image><url>https://minglin-home.github.io/media/icon_hu_2f5b0e2a946ddb14.png</url><title>Open Source</title><link>https://minglin-home.github.io/tags/open-source/</link></image><item><title>Efficient Model Design</title><link>https://minglin-home.github.io/projects/efficient-model-design/</link><pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate><guid>https://minglin-home.github.io/projects/efficient-model-design/</guid><description>&lt;p&gt;My work in neural architecture search focuses on training-free search,
+hardware-aware model design, and efficient architectures for vision and language
+models.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tiny-NAS&lt;/strong&gt; is a distributed, full-stack framework for zero-shot neural
+architecture search, with hardware-latency prediction for GPU and mobile
+deployment. &lt;strong&gt;Zen-NAS&lt;/strong&gt; is a fast, training-free method for finding models that
+balance predictive accuracy and inference efficiency.&lt;/p&gt;
+&lt;p&gt;
+·
+&lt;/p&gt;</description></item></channel></rss>
